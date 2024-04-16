@@ -48,3 +48,4 @@ echo freecodecamp > name.txt
 echo freeCodeCamp > name.txt
 read NAME < name.txt
 echo $NAME
+echo Bryant
