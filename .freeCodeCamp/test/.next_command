@@ -41,3 +41,4 @@ echo hello bash l > stdout.txt
 echo hello bash > stdout.txt
 echo hello bash > stdout.txt
 bad_command 2> stderr.txt
+read NAME
