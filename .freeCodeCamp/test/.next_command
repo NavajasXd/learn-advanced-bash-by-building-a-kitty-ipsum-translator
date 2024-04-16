@@ -51,3 +51,4 @@ echo $NAME
 echo Bryant
 echo $NAME
 cat
+cat name.txt
