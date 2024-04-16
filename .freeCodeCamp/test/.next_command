@@ -63,3 +63,4 @@ rm sterr.txt
 ./script.sh
 echo Bryant
 echo Bryant
+echo Bryant
