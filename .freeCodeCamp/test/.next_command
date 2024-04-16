@@ -30,3 +30,14 @@ bad_command
 bad_command > stderr.txt
 stderr > sterr.txt
 bad_command 2> stderr.txt
+__vsc_prompt_cmd_original
+echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+> stdout.txt
+echo hello bash > stdout.txt
+echo hello bash l > stdout.txt
+echo hello bash > stdout.txt
+echo hello bash > stdout.txt
+bad_command 2> stderr.txt
